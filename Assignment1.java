@@ -1,12 +1,4 @@
-// -----------------------------------------------------
-// Assignment 1
-// COMP249
-// Written by: Azal Al-Mashta, 40179492
-// Due Date 08/02/2021
-//This program is meant to simulate a game of Ladders and Snakes
-// -----------------------------------------------------
-package Assignments;
-import java.util.InputMismatchException;
+
 import java.util.Scanner;
 /**
  *<head>
