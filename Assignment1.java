@@ -19,7 +19,7 @@ import java.util.Scanner;
  *@since   20121-02-08
  *
  */
-public class Assignment1 {
+public class LadderAndSnake_driver {
 	/**
 	 * Main method of the class
 	 * @param args
